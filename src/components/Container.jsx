@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   overflow: hidden;
-  max-width: 100%;
+  max-width: 600px;
   border-radius: 2rem;
   background: linear-gradient(
     45deg,
