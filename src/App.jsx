@@ -23,7 +23,7 @@ const App = function AppContent() {
       <>
         <GlobalStyles />
 
-        <Router>
+        <Router basename="ystavanpaiva">
           <Switch>
             <Route exact path={routes.GREETING} component={Greeting} />
             <Route path={routes.ROOT} component={Main} />
