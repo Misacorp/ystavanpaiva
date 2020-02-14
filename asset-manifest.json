@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/ystavanpaiva/static/js/main.036e2f1a.chunk.js",
-    "main.js.map": "/ystavanpaiva/static/js/main.036e2f1a.chunk.js.map",
+    "main.js": "/ystavanpaiva/static/js/main.2859625b.chunk.js",
+    "main.js.map": "/ystavanpaiva/static/js/main.2859625b.chunk.js.map",
     "runtime~main.js": "/ystavanpaiva/static/js/runtime~main.5b8865ae.js",
     "runtime~main.js.map": "/ystavanpaiva/static/js/runtime~main.5b8865ae.js.map",
     "static/js/2.3803a868.chunk.js": "/ystavanpaiva/static/js/2.3803a868.chunk.js",
     "static/js/2.3803a868.chunk.js.map": "/ystavanpaiva/static/js/2.3803a868.chunk.js.map",
     "index.html": "/ystavanpaiva/index.html",
-    "precache-manifest.b87c350bb8b0f7ad42130116ae35f7a0.js": "/ystavanpaiva/precache-manifest.b87c350bb8b0f7ad42130116ae35f7a0.js",
+    "precache-manifest.cdcbd36c39b3e4ebae009bbf2ae60fe1.js": "/ystavanpaiva/precache-manifest.cdcbd36c39b3e4ebae009bbf2ae60fe1.js",
     "service-worker.js": "/ystavanpaiva/service-worker.js"
   }
 }
