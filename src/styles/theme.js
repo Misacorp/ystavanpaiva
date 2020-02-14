@@ -1,4 +1,5 @@
 const baseFonts = [
+  'Indie Flower',
   'Open Sans',
   'Roboto',
   'Helvetica Neue',
@@ -9,10 +10,10 @@ const baseFonts = [
 export default {
   palette: {
     primary: {
-      lighter: '#FFCF74',
-      light: '#FFC14A',
+      lighter: '#FFF1EB',
+      light: '#FFD6C7',
       main: '#FDB01F',
-      dark: '#D48C02',
+      dark: '#b15a3a',
       darker: '#A76D00',
     },
     secondary: {

@@ -10,6 +10,17 @@ const GlobalStyles = createGlobalStyle`
     font-family: ${({ theme }) => theme.typography.base.fontFamily};
     width: 100%;
     min-height: 100%;
+
+
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(#ffe1d9, #ffbb89);
+    border-radius: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   h1, h2 {
