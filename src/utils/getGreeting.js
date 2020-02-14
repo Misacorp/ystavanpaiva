@@ -7,6 +7,22 @@ const getGreeting = name => {
     return greetings.jasmiinaGreeting;
   }
 
+  if (normalizedName === 'kaisa') {
+    return greetings.kaisaGreeting;
+  }
+
+  if (normalizedName === 'niko') {
+    return greetings.nikoGreeting;
+  }
+
+  if (normalizedName === 'heikki') {
+    return greetings.heikkiGreeting;
+  }
+
+  if (normalizedName === 'jarka') {
+    return greetings.jarkaGreeting;
+  }
+
   if (
     [
       'jarka',
@@ -24,6 +40,34 @@ const getGreeting = name => {
     ].includes(normalizedName)
   ) {
     return greetings.donutGreeting;
+  }
+
+  if (
+    [
+      'aikku',
+      'aino-inkeri',
+      'ilona',
+      'anna-ilona',
+      'dave',
+      'david',
+      'eero',
+      'eerika',
+      'emma',
+      'hanna',
+      'joonas',
+      'kirsi',
+      'konstantin',
+      'kosu',
+      'maija',
+      'meri',
+      'mc',
+      'mia-carita',
+      'milka',
+      'onni',
+      'julia',
+    ].includes(normalizedName)
+  ) {
+    return greetings.karvaGreeting;
   }
 
   if (normalizedName === 'sammakko') {

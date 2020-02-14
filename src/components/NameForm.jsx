@@ -25,7 +25,7 @@ const NameFormStructure = ({ className }) => {
       />
 
       <LinkButton
-        to={`${routes.GREETING}?name=${name.trim().toLowerCase()}`}
+        to={`${routes.GREETING}?name=${name.trim()}`}
         disabled={isValid(name)}
       >
         Jatka
